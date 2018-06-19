@@ -68,7 +68,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.9.0-RC2 ",
-			"unofficial_ver": "Unofficial d2022c0 ",
+			"unofficial_ver": "Unofficial 6dcedbf ",
 			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
 			"unofficial_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/unofficial-bootstrap.nds"
 		},
