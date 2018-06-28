@@ -22,20 +22,20 @@
 	"DSiMenuPlusPlus": {
 		"main": {
 			"main_major": "4",
-			"main_minor": "3",
-			"main_micro": "2",
+			"main_minor": "4",
+			"main_micro": "0",
 			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
 		},
 		"dsimenu": {
 			"dsimenu_major": "4",
-			"dsimenu_minor": "3",
-			"dsimenu_micro": "2",
+			"dsimenu_minor": "4",
+			"dsimenu_micro": "0",
 			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
 		},
 		"r4menu": {
 			"r4menu_major": "4",
-			"r4menu_minor": "3",
-			"r4menu_micro": "2",
+			"r4menu_minor": "4",
+			"r4menu_micro": "0",
 			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
 		}
 	},
