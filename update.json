@@ -61,13 +61,13 @@
 	},
 	"nds-bootstrap": {
 		"sdk1-4": {
-			"release_ver": "Release v0.10.0    ",
-			"nightly_ver": "Nightly bedf77b    ",
+			"release_ver": "Release v0.10.1    ",
+			"nightly_ver": "Nightly 1445ba5    ",
 			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
 			"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap.nds"
 		},
 		"sdk5": {
-			"sdk5-release_ver": "Release v0.10.0    ",
+			"sdk5-release_ver": "Release v0.10.1    ",
 			"sdk5-nightly_ver": "Nightly 110cd10    ",
 			"sdk5-release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap-sdk5.nds",
 			"sdk5-nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap-sdk5.nds"
