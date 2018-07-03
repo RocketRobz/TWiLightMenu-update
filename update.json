@@ -68,7 +68,7 @@
 		},
 		"sdk5": {
 			"sdk5-release_ver": "Release v0.10.1    ",
-			"sdk5-nightly_ver": "Nightly 2d78a1c    ",
+			"sdk5-nightly_ver": "Nightly a973cb0    ",
 			"sdk5-release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap-sdk5.nds",
 			"sdk5-nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap-sdk5.nds"
 		}
