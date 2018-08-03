@@ -22,26 +22,26 @@
 	"DSiMenuPlusPlus": {
 		"main": {
 			"main_major": "5",
-			"main_minor": "0",
-			"main_micro": "0",
+			"main_minor": "3",
+			"main_micro": "1",
 			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
 		},
 		"dsimenu": {
 			"dsimenu_major": "5",
-			"dsimenu_minor": "0",
-			"dsimenu_micro": "0",
+			"dsimenu_minor": "3",
+			"dsimenu_micro": "1",
 			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
 		},
 		"r4menu": {
 			"r4menu_major": "5",
-			"r4menu_minor": "0",
-			"r4menu_micro": "0",
+			"r4menu_minor": "3",
+			"r4menu_micro": "1",
 			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
 		},
 		"slot1launch": {
 			"slot1launch_major": "5",
-			"slot1launch_minor": "0",
-			"slot1launch_micro": "0",
+			"slot1launch_minor": "2",
+			"slot1launch_micro": "1",
 			"slot1launch_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/slot1launch.srldr"
 		}
 	},
@@ -68,7 +68,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.10.2    ",
-			"nightly_ver": "Nightly ac9b097    ",
+			"nightly_ver": "Nightly 92934c9    ",
 			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
 			"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap.nds"
 		},
