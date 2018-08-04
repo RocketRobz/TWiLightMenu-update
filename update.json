@@ -68,7 +68,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.10.2    ",
-			"nightly_ver": "Nightly a40b4b7    ",
+			"nightly_ver": "Nightly 9d7ef2d    ",
 			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
 			"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap.nds"
 		},
