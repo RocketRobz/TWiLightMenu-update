@@ -68,13 +68,13 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.10.2    ",
-			"nightly_ver": "Nightly 9d7ef2d    ",
+			"nightly_ver": "Nightly f36cf59    ",
 			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
 			"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap.nds"
 		},
 		"sdk5": {
 			"sdk5-release_ver": "Release v0.10.2    ",
-			"sdk5-nightly_ver": "Nightly 4c65e11    ",
+			"sdk5-nightly_ver": "Nightly f36cf59    ",
 			"sdk5-release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap-sdk5.nds",
 			"sdk5-nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap-sdk5.nds"
 		}
