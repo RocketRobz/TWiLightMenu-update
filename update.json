@@ -7,14 +7,14 @@
 	},
 	"NAND_side": {
 		"booter": {
-			"booter_not_major": "4",
-			"booter_not_minor": "3",
-			"booter_not_micro": "2",
+			"booter_not_major": "5",
+			"booter_not_minor": "5",
+			"booter_not_micro": "0",
 			"booter_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus.cia"
 		},
 		"gameBooter": {
 			"not_major": "5",
-			"not_minor": "0",
+			"not_minor": "5",
 			"not_micro": "0",
 			"nand_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus%20-%20Game%20booter.cia"
 		}
@@ -22,20 +22,20 @@
 	"DSiMenuPlusPlus": {
 		"main": {
 			"main_major": "5",
-			"main_minor": "3",
-			"main_micro": "1",
+			"main_minor": "5",
+			"main_micro": "0",
 			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
 		},
 		"dsimenu": {
 			"dsimenu_major": "5",
-			"dsimenu_minor": "3",
-			"dsimenu_micro": "1",
+			"dsimenu_minor": "5",
+			"dsimenu_micro": "0",
 			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
 		},
 		"r4menu": {
 			"r4menu_major": "5",
-			"r4menu_minor": "3",
-			"r4menu_micro": "1",
+			"r4menu_minor": "5",
+			"r4menu_micro": "0",
 			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
 		},
 		"slot1launch": {
