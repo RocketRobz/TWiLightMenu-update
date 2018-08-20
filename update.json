@@ -10,13 +10,13 @@
 			"booter_not_major": "5",
 			"booter_not_minor": "5",
 			"booter_not_micro": "0",
-			"booter_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus.cia"
+			"booter_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/DSiMenuPlusPlus.cia"
 		},
 		"gameBooter": {
 			"not_major": "5",
 			"not_minor": "5",
 			"not_micro": "0",
-			"nand_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus%20-%20Game%20booter.cia"
+			"nand_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/DSiMenuPlusPlus%20-%20Game%20booter.cia"
 		}
 	},
 	"DSiMenuPlusPlus": {
