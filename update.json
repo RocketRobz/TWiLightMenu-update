@@ -20,6 +20,12 @@
 		}
 	},
 	"DSiMenuPlusPlus": {
+		"boot": {
+			"main_major": "5",
+			"main_minor": "5",
+			"main_micro": "0",
+			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/boot.nds"
+		},
 		"main": {
 			"main_major": "5",
 			"main_minor": "5",
