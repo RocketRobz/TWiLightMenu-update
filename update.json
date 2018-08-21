@@ -9,13 +9,13 @@
 		"booter": {
 			"booter_not_major": "5",
 			"booter_not_minor": "5",
-			"booter_not_micro": "0",
+			"booter_not_micro": "1",
 			"booter_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/DSiMenuPlusPlus.cia"
 		},
 		"gameBooter": {
 			"not_major": "5",
 			"not_minor": "5",
-			"not_micro": "0",
+			"not_micro": "1",
 			"nand_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/DSiMenuPlusPlus%20-%20Game%20booter.cia"
 		}
 	},
@@ -23,25 +23,25 @@
 		"boot": {
 			"boot_major": "5",
 			"boot_minor": "5",
-			"boot_micro": "0",
+			"boot_micro": "1",
 			"boot_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/boot.nds"
 		},
 		"main": {
 			"main_major": "5",
 			"main_minor": "5",
-			"main_micro": "0",
+			"main_micro": "1",
 			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
 		},
 		"dsimenu": {
 			"dsimenu_major": "5",
 			"dsimenu_minor": "5",
-			"dsimenu_micro": "0",
+			"dsimenu_micro": "1",
 			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
 		},
 		"r4menu": {
 			"r4menu_major": "5",
 			"r4menu_minor": "5",
-			"r4menu_micro": "0",
+			"r4menu_micro": "1",
 			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
 		},
 		"slot1launch": {
@@ -65,9 +65,9 @@
 			"nesTwl_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/prebuilts/nesTwl.nds"
 		},
 		"GameYob": {
-			"GameYob_major": "4",
-			"GameYob_minor": "2",
-			"GameYob_micro": "0",
+			"GameYob_major": "5",
+			"GameYob_minor": "5",
+			"GameYob_micro": "1",
 			"GameYob_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/prebuilts/GameYob.nds"
 		}
 	},
