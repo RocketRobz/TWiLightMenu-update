@@ -72,8 +72,8 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.11.0    ",
-		"nightly_ver": "Nightly 76d1b8e    ",
+		"release_ver": "Release v0.11.1    ",
+		"nightly_ver": "Nightly 8a81932    ",
 		"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nds-bootstrap-release.nds",
 		"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nds-bootstrap-nightly.nds"
 	}
