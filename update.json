@@ -21,28 +21,34 @@
 	},
 	"DSiMenuPlusPlus": {
 		"boot": {
-			"boot_major": "5",
-			"boot_minor": "5",
-			"boot_micro": "1",
+			"boot_major": "6",
+			"boot_minor": "2",
+			"boot_micro": "0",
 			"boot_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/boot.nds"
 		},
 		"main": {
-			"main_major": "5",
-			"main_minor": "5",
-			"main_micro": "1",
+			"main_major": "6",
+			"main_minor": "2",
+			"main_micro": "0",
 			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
 		},
 		"dsimenu": {
-			"dsimenu_major": "5",
-			"dsimenu_minor": "5",
-			"dsimenu_micro": "1",
+			"dsimenu_major": "6",
+			"dsimenu_minor": "2",
+			"dsimenu_micro": "0",
 			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
 		},
 		"r4menu": {
-			"r4menu_major": "5",
-			"r4menu_minor": "5",
-			"r4menu_micro": "1",
-			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
+			"r4menu_major": "6",
+			"r4menu_minor": "2",
+			"r4menu_micro": "0",
+			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4menu.srldr"
+		},
+		"akmenu": {
+			"akmenu_major": "6",
+			"akmenu_minor": "2",
+			"akmenu_micro": "0",
+			"akmenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/akmenu.srldr"
 		},
 		"slot1launch": {
 			"slot1launch_major": "5",
@@ -72,7 +78,7 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.11.2    ",
+		"release_ver": "Release v0.12.0    ",
 		"nightly_ver": "Nightly 2940563    ",
 		"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nds-bootstrap-release.nds",
 		"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nds-bootstrap-nightly.nds"
