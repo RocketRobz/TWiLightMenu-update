@@ -78,8 +78,8 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.12.1    ",
-		"nightly_ver": "Nightly bcb3cfd    ",
+		"release_ver": "Release v0.12.2    ",
+		"nightly_ver": "Nightly 719ffc0    ",
 		"release_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-release.nds",
 		"nightly_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-nightly.nds"
 	}
