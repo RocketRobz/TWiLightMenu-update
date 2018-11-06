@@ -7,47 +7,47 @@
 	},
 	"NAND_side": {
 		"booter": {
-			"booter_not_major": "5",
-			"booter_not_minor": "5",
-			"booter_not_micro": "1",
-			"booter_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/DSiMenuPlusPlus.cia"
+			"booter_not_major": "6",
+			"booter_not_minor": "4",
+			"booter_not_micro": "4",
+			"booter_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/TWiLight%20Menu.cia"
 		},
 		"gameBooter": {
-			"not_major": "5",
-			"not_minor": "5",
-			"not_micro": "1",
-			"nand_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/DSiMenuPlusPlus%20-%20Game%20booter.cia"
+			"not_major": "6",
+			"not_minor": "4",
+			"not_micro": "5",
+			"nand_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/TWiLight%20Menu%20-%20Game%20booter.cia"
 		}
 	},
 	"TWiLightMenu": {
 		"boot": {
 			"boot_major": "6",
-			"boot_minor": "2",
-			"boot_micro": "0",
+			"boot_minor": "4",
+			"boot_micro": "5",
 			"boot_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/boot.nds"
 		},
 		"main": {
 			"main_major": "6",
-			"main_minor": "2",
-			"main_micro": "0",
+			"main_minor": "4",
+			"main_micro": "5",
 			"main_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/main.srldr"
 		},
 		"dsimenu": {
 			"dsimenu_major": "6",
-			"dsimenu_minor": "2",
-			"dsimenu_micro": "0",
+			"dsimenu_minor": "4",
+			"dsimenu_micro": "5",
 			"dsimenu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/dsimenu.srldr"
 		},
 		"r4menu": {
 			"r4menu_major": "6",
-			"r4menu_minor": "2",
-			"r4menu_micro": "0",
+			"r4menu_minor": "4",
+			"r4menu_micro": "5",
 			"r4menu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/r4menu.srldr"
 		},
 		"akmenu": {
 			"akmenu_major": "6",
-			"akmenu_minor": "2",
-			"akmenu_micro": "0",
+			"akmenu_minor": "4",
+			"akmenu_micro": "5",
 			"akmenu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/akmenu.srldr"
 		},
 		"slot1launch": {
@@ -78,8 +78,8 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.12.2    ",
-		"nightly_ver": "Nightly be82229    ",
+		"release_ver": "Release v0.12.3-r1 ",
+		"nightly_ver": "Nightly a66af2c    ",
 		"release_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-release.nds",
 		"nightly_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-nightly.nds"
 	}
