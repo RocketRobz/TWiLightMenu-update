@@ -1,9 +1,9 @@
 {
-	"Updater": {
-		"latest_major": "3",
-		"latest_minor": "0",
-		"latest_micro": "0",
-		"gui_url": "https://github.com/RocketRobz/TWiLightMenu-update/raw/master/TWiLight%20Menu%20Updater.cia"
+	"Launcher": {
+		"latest_major": "2",
+		"latest_minor": "1",
+		"latest_micro": "6",
+		"gui_url": "https://github.com/RocketRobz/TWiLightMenu-update/raw/master/TWiLight%20Menu%20Launcher.cia"
 	},
 	"NAND_side": {
 		"booter": {
